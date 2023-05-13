@@ -12,9 +12,3 @@ Procedure for this exercise:
 6. Create a visualization of the features using `Table Summary`.
 7. Create a visualization of the features using `Histogram`.
 8. Save the results by exporting to S3.
-
-
-## AWS Tools
-1. Data Wrangler
-2. S3
-3. Sagemaker Processing Job

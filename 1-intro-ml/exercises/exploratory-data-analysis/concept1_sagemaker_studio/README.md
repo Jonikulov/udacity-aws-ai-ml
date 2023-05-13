@@ -1,5 +1,5 @@
 # Exercise: Using Sagemaker Studio for EDA in Pandas
-![dylan-ferreira-0cv08T71zL0-unsplash.jpg](starter/dylan-ferreira-0cv08T71zL0-unsplash.jpg)
+![dylan-ferreira-0cv08T71zL0-unsplash.jpg](dylan-ferreira-0cv08T71zL0-unsplash.jpg)
 
 You are the happy owner of Yum Yum Ice Cream. After 2 days of great sales, you decided you wanted to look and see if you can gain any insights into your ice cream sales.
 

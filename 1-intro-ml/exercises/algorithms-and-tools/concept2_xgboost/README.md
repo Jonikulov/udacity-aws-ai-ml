@@ -13,14 +13,16 @@ You're tasked with completing the following steps:
     4. num_class: 3
     5. num_round: 100
 5. Evaluate the model with the test dataset
-6. Load the diabetes dataset from scikit learn
-7. For the Diabetes dataset, create a train and test split, 80% train / 20% test.
-8. Load the train/test data into the xgboost matrix
-9. Create a XGBoost Regression model model with these hyper parameters:
+6. Output the feature importance of the wine dataset
+7. Load the diabetes dataset from scikit learn
+8. For the Diabetes dataset, create a train and test split, 80% train / 20% test.
+9. Load the train/test data into the xgboost matrix
+10. Create a XGBoost Regression model model with these hyper parameters:
     1. max_depth: 2
     2. eta: 0.03
     3. gamma: 0.09
     4. colsample_bytree: 0.5
     5. objective: reg:squarederror
     6. num_round: 100
-10. Evaluate the model with the test dataset
+11. Evaluate the model with the test dataset
+12. Output the feature importance of the diabetes dataset

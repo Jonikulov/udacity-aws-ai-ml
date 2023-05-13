@@ -12,8 +12,3 @@ Procedure for this exercise:
 6. Label the dataset after receiving the private email for the task.
 7. Complete the labeling project by stopping the project
 8. Go to the output location of the labeling project in S3 and download the 
-
-
-## AWS Tools
-1. Ground Truth
-2. S3

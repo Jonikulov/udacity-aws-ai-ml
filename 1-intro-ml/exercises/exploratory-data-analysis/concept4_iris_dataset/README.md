@@ -7,6 +7,3 @@ Our main objectives for this dataset are:
 3. Create a histogram of all the features and target
 4. Create a correlation matrix of the features and target
 5. Create scatter plots of all the features and target
-
-## AWS Tools
-1. Sagemaker Studio

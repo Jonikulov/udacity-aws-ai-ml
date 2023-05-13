@@ -10,7 +10,4 @@ In this exercise, we're going to take the knowledge we gained from the lesson an
     2. Fit on train, score on validation, using default model
     3. Fit on train, score on validation, using hyperparameters model
     4. Fit on train, score on test, using hyperparameterized model
-5. Plot all scores in a bar graph    
-    
-## AWS Tools
-* Using Workspaces
+5. Plot all scores in a bar graph
